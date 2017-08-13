@@ -3,14 +3,9 @@ html, body {
     margin: 0;
 }
 
-.nav {
-    margin-right: 70px;
-}
-
 .navbar {
    overflow: hidden;
    background-color: #333;
-   height: 60px;
 }
 
 .navbar a {
@@ -47,6 +42,7 @@ html, body {
     .navbar.responsive {
         position: relative;
     }
+    
     .navbar.responsive a {
         float: none;
         display: block;
