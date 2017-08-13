@@ -1,0 +1,44 @@
+/************************** Fonts *******************************************/
+
+/*********************** Dosis Fonts *********************************/
+@font-face {
+    font-family: 'Dosis-Bold';
+    src: url(fonts/Dosis/Dosis-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis-ExtraBold';
+    src: url(fonts/Dosis/Dosis-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis-ExtraLight';
+    src: url(fonts/Dosis/Dosis-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis-Light';
+    src: url(fonts/Dosis/Dosis-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis-Medium';
+    src: url(fonts/Dosis/Dosis-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis-Regular';
+    src: url(fonts/Dosis/Dosis-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis-SemiBold';
+    src: url(fonts/Dosis/Dosis-SemiBold.ttf) format('truetype');
+}
+
+/********************IndieFlower Font **********************************/
+
+@font-face {
+    font-family: 'IndieFlower';
+    src: url(fonts/IndieFlower/IndieFlower.ttf) format('truetype');
+}
